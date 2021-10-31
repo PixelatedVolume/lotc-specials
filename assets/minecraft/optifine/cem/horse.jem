@@ -1,0 +1,21 @@
+{
+  "textureSize": [64,64],
+  "models":
+  [
+    {
+      "model": "deer_nose.jpm",
+      "part": "head",
+      "attach": true
+    },
+    {
+      "model": "antlers.jpm",
+      "part": "head",
+      "attach": true
+    },
+    {
+      "model": "deer_tail.jpm",
+      "part": "body",
+      "attach": true
+    }
+  ]
+}
