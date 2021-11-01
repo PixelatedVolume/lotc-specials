@@ -4,7 +4,7 @@
 	"credit": "Made with Blockbench",
 	"boxes": [
 		{
-			"coordinates": [-2, -11, 5, 1, 1, 2],
+			"coordinates": [-2, -12, 3, 1, 1, 2],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [2, 0, 4, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -13,7 +13,7 @@
 			"uvDown": [0, 2, 1, 4]
 		},
 		{
-			"coordinates": [-3, -12, 6, 1, 1, 2],
+			"coordinates": [-3, -13, 4, 1, 1, 2],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [2, 0, 4, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -22,7 +22,7 @@
 			"uvDown": [0, 2, 1, 4]
 		},
 		{
-			"coordinates": [-5, -14, 6, 1, 1, 2],
+			"coordinates": [-5, -15, 4, 1, 1, 2],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [2, 0, 4, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -31,7 +31,7 @@
 			"uvDown": [0, 2, 1, 4]
 		},
 		{
-			"coordinates": [-6, -14, 5, 1, 1, 2],
+			"coordinates": [-6, -15, 3, 1, 1, 2],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [2, 0, 4, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -40,7 +40,7 @@
 			"uvDown": [0, 2, 1, 4]
 		},
 		{
-			"coordinates": [-7, -15, 2, 1, 1, 4],
+			"coordinates": [-7, -16, 0, 1, 1, 4],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [4, 0, 8, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -49,7 +49,7 @@
 			"uvDown": [0, 4, 1, 8]
 		},
 		{
-			"coordinates": [-6, -16, -2, 1, 1, 4],
+			"coordinates": [-6, -17, -4, 1, 1, 4],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [4, 0, 8, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -58,7 +58,7 @@
 			"uvDown": [0, 4, 1, 8]
 		},
 		{
-			"coordinates": [-5, -17, -3, 1, 1, 2],
+			"coordinates": [-5, -18, -5, 1, 1, 2],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [2, 0, 4, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -67,7 +67,7 @@
 			"uvDown": [0, 2, 1, 4]
 		},
 		{
-			"coordinates": [-7, -16, 1, 1, 1, 2],
+			"coordinates": [-7, -17, -1, 1, 1, 2],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [2, 0, 4, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -76,7 +76,7 @@
 			"uvDown": [0, 2, 1, 4]
 		},
 		{
-			"coordinates": [-2, -12, 6, 1, 1, 1],
+			"coordinates": [-2, -13, 4, 1, 1, 1],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [1, 0, 2, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -85,7 +85,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [-5, -13, 7, 3, 1, 1],
+			"coordinates": [-5, -14, 5, 3, 1, 1],
 			"uvNorth": [3, 0, 6, 1],
 			"uvEast": [1, 0, 2, 1],
 			"uvSouth": [3, 0, 6, 1],
@@ -94,7 +94,7 @@
 			"uvDown": [0, 1, 3, 2]
 		},
 		{
-			"coordinates": [-7, -14, 5, 1, 1, 1],
+			"coordinates": [-7, -15, 3, 1, 1, 1],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [1, 0, 2, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -103,7 +103,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [-5, -16, -2, 1, 1, 1],
+			"coordinates": [-5, -17, -4, 1, 1, 1],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [1, 0, 2, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -112,7 +112,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [-5, -19, -4, 1, 2, 1],
+			"coordinates": [-5, -20, -6, 1, 2, 1],
 			"uvNorth": [1, 0, 2, 2],
 			"uvEast": [1, 0, 2, 2],
 			"uvSouth": [1, 0, 2, 2],
@@ -121,7 +121,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [-6, -20, -1, 1, 3, 1],
+			"coordinates": [-6, -21, -3, 1, 3, 1],
 			"uvNorth": [1, 0, 2, 3],
 			"uvEast": [1, 0, 2, 3],
 			"uvSouth": [1, 0, 2, 3],
@@ -130,7 +130,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [-7, -18, 4, 1, 3, 1],
+			"coordinates": [-7, -19, 2, 1, 3, 1],
 			"uvNorth": [1, 0, 2, 3],
 			"uvEast": [1, 0, 2, 3],
 			"uvSouth": [1, 0, 2, 3],
@@ -139,7 +139,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [-5, -16, 7, 1, 2, 1],
+			"coordinates": [-5, -17, 5, 1, 2, 1],
 			"uvNorth": [1, 0, 2, 2],
 			"uvEast": [1, 0, 2, 2],
 			"uvSouth": [1, 0, 2, 2],
@@ -148,7 +148,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [-5, -18, -3, 1, 1, 1],
+			"coordinates": [-5, -19, -5, 1, 1, 1],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [1, 0, 2, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -157,7 +157,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [-6, -18, 0, 1, 2, 1],
+			"coordinates": [-6, -19, -2, 1, 2, 1],
 			"uvNorth": [1, 0, 2, 2],
 			"uvEast": [1, 0, 2, 2],
 			"uvSouth": [1, 0, 2, 2],
@@ -166,7 +166,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [-7, -20, 3, 1, 3, 1],
+			"coordinates": [-7, -21, 1, 1, 3, 1],
 			"uvNorth": [1, 0, 2, 3],
 			"uvEast": [1, 0, 2, 3],
 			"uvSouth": [1, 0, 2, 3],
@@ -175,7 +175,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [-5, -19, 6, 1, 4, 1],
+			"coordinates": [-5, -20, 4, 1, 4, 1],
 			"uvNorth": [1, 0, 2, 4],
 			"uvEast": [1, 0, 2, 4],
 			"uvSouth": [1, 0, 2, 4],
@@ -184,7 +184,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [1, -11, 5, 1, 1, 2],
+			"coordinates": [1, -12, 3, 1, 1, 2],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [2, 0, 4, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -193,7 +193,7 @@
 			"uvDown": [0, 2, 1, 4]
 		},
 		{
-			"coordinates": [5, -18, 0, 1, 2, 1],
+			"coordinates": [5, -19, -2, 1, 2, 1],
 			"uvNorth": [1, 0, 2, 2],
 			"uvEast": [1, 0, 2, 2],
 			"uvSouth": [1, 0, 2, 2],
@@ -202,7 +202,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [2, -12, 6, 1, 1, 2],
+			"coordinates": [2, -13, 4, 1, 1, 2],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [2, 0, 4, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -211,7 +211,7 @@
 			"uvDown": [0, 2, 1, 4]
 		},
 		{
-			"coordinates": [4, -14, 6, 1, 1, 2],
+			"coordinates": [4, -15, 4, 1, 1, 2],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [2, 0, 4, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -220,7 +220,7 @@
 			"uvDown": [0, 2, 1, 4]
 		},
 		{
-			"coordinates": [5, -14, 5, 1, 1, 2],
+			"coordinates": [5, -15, 3, 1, 1, 2],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [2, 0, 4, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -229,7 +229,7 @@
 			"uvDown": [0, 2, 1, 4]
 		},
 		{
-			"coordinates": [6, -15, 2, 1, 1, 4],
+			"coordinates": [6, -16, 0, 1, 1, 4],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [4, 0, 8, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -238,7 +238,7 @@
 			"uvDown": [0, 4, 1, 8]
 		},
 		{
-			"coordinates": [6, -16, 1, 1, 1, 2],
+			"coordinates": [6, -17, -1, 1, 1, 2],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [2, 0, 4, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -247,7 +247,7 @@
 			"uvDown": [0, 2, 1, 4]
 		},
 		{
-			"coordinates": [5, -16, -2, 1, 1, 4],
+			"coordinates": [5, -17, -4, 1, 1, 4],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [4, 0, 8, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -256,7 +256,7 @@
 			"uvDown": [0, 4, 1, 8]
 		},
 		{
-			"coordinates": [4, -17, -3, 1, 1, 2],
+			"coordinates": [4, -18, -5, 1, 1, 2],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [2, 0, 4, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -265,7 +265,7 @@
 			"uvDown": [0, 2, 1, 4]
 		},
 		{
-			"coordinates": [1, -12, 6, 1, 1, 1],
+			"coordinates": [1, -13, 4, 1, 1, 1],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [1, 0, 2, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -274,7 +274,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [2, -13, 7, 3, 1, 1],
+			"coordinates": [2, -14, 5, 3, 1, 1],
 			"uvNorth": [3, 0, 6, 1],
 			"uvEast": [1, 0, 2, 1],
 			"uvSouth": [3, 0, 6, 1],
@@ -283,7 +283,7 @@
 			"uvDown": [0, 1, 3, 2]
 		},
 		{
-			"coordinates": [6, -14, 5, 1, 1, 1],
+			"coordinates": [6, -15, 3, 1, 1, 1],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [1, 0, 2, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -292,7 +292,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [4, -16, -2, 1, 1, 1],
+			"coordinates": [4, -17, -4, 1, 1, 1],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [1, 0, 2, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -301,7 +301,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [4, -19, -4, 1, 2, 1],
+			"coordinates": [4, -20, -6, 1, 2, 1],
 			"uvNorth": [1, 0, 2, 2],
 			"uvEast": [1, 0, 2, 2],
 			"uvSouth": [1, 0, 2, 2],
@@ -310,7 +310,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [5, -20, -1, 1, 3, 1],
+			"coordinates": [5, -21, -3, 1, 3, 1],
 			"uvNorth": [1, 0, 2, 3],
 			"uvEast": [1, 0, 2, 3],
 			"uvSouth": [1, 0, 2, 3],
@@ -319,7 +319,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [6, -18, 4, 1, 3, 1],
+			"coordinates": [6, -19, 2, 1, 3, 1],
 			"uvNorth": [1, 0, 2, 3],
 			"uvEast": [1, 0, 2, 3],
 			"uvSouth": [1, 0, 2, 3],
@@ -328,7 +328,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [6, -20, 3, 1, 3, 1],
+			"coordinates": [6, -21, 1, 1, 3, 1],
 			"uvNorth": [1, 0, 2, 3],
 			"uvEast": [1, 0, 2, 3],
 			"uvSouth": [1, 0, 2, 3],
@@ -337,7 +337,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [4, -16, 7, 1, 2, 1],
+			"coordinates": [4, -17, 5, 1, 2, 1],
 			"uvNorth": [1, 0, 2, 2],
 			"uvEast": [1, 0, 2, 2],
 			"uvSouth": [1, 0, 2, 2],
@@ -346,7 +346,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [4, -19, 6, 1, 4, 1],
+			"coordinates": [4, -20, 4, 1, 4, 1],
 			"uvNorth": [1, 0, 2, 4],
 			"uvEast": [1, 0, 2, 4],
 			"uvSouth": [1, 0, 2, 4],
@@ -355,7 +355,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [4, -18, -3, 1, 1, 1],
+			"coordinates": [4, -19, -5, 1, 1, 1],
 			"uvNorth": [1, 0, 2, 1],
 			"uvEast": [1, 0, 2, 1],
 			"uvSouth": [1, 0, 2, 1],
@@ -364,7 +364,7 @@
 			"uvDown": [0, 1, 1, 2]
 		},
 		{
-			"coordinates": [-2, -10, -6, 4, 3, 5],
+			"coordinates": [-2, -10, -7, 4, 3, 5],
 			"uvNorth": [0, 0, 20, 16],
 			"uvEast": [0, 0, 16, 16],
 			"uvSouth": [0, 0, 20, 16],
@@ -373,7 +373,7 @@
 			"uvDown": [0, 0, 20, 16]
 		},
 		{
-			"coordinates": [-3.5, -13, 2, 1, 3, 2],
+			"coordinates": [-3.5, -13, 1, 1, 3, 2],
 			"uvNorth": [0, 0, 1, 3],
 			"uvEast": [0, 0, 2, 3],
 			"uvSouth": [0, 0, 1, 3],
@@ -382,7 +382,7 @@
 			"uvDown": [0, 0, 1, 2]
 		},
 		{
-			"coordinates": [2.5, -13, 2, 1, 3, 2],
+			"coordinates": [2.5, -13, 1, 1, 3, 2],
 			"uvNorth": [0, 0, 1, 3],
 			"uvEast": [0, 0, 2, 3],
 			"uvSouth": [0, 0, 1, 3],
@@ -391,7 +391,7 @@
 			"uvDown": [0, 0, 1, 2]
 		},
 		{
-			"coordinates": [-1, -7, -5, 2, 1, 4],
+			"coordinates": [-1, -7, -6, 2, 1, 4],
 			"uvNorth": [0, 0, 2, 1],
 			"uvEast": [0, 0, 4, 1],
 			"uvSouth": [0, 0, 2, 1],
@@ -400,13 +400,22 @@
 			"uvDown": [0, 0, 2, 4]
 		},
 		{
-			"coordinates": [-1, -10, -6.5, 2, 2, 1],
+			"coordinates": [-1, -10, -7.5, 2, 2, 1],
 			"uvNorth": [0, 0, 2, 2],
 			"uvEast": [0, 0, 1, 2],
 			"uvSouth": [0, 0, 2, 2],
 			"uvWest": [0, 0, 1, 2],
 			"uvUp": [0, 0, 2, 1],
 			"uvDown": [0, 0, 2, 1]
+		},
+		{
+			"coordinates": [-3, -11, -2, 6, 5, 6],
+			"uvNorth": [0, 0, 6, 5],
+			"uvEast": [0, 0, 6, 5],
+			"uvSouth": [0, 0, 6, 5],
+			"uvWest": [0, 0, 6, 5],
+			"uvUp": [0, 0, 6, 6],
+			"uvDown": [0, 0, 6, 6]
 		}
 	]
 }
