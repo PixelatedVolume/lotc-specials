@@ -3,8 +3,14 @@
   "models":
   [
     {
-      "model": "deer_nose.jpm",
+      "model": "estelavern_head.jpm",
       "part": "head",
+      "attach": true
+    }
+    ,
+    {
+      "model": "estelavern_tail.jpm",
+      "part": "tail",
       "attach": true
     }
   ]
