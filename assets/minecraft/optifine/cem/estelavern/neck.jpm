@@ -1,0 +1,13 @@
+{
+  "texture": "textures/entity/horse/estelavern_parts",
+  "textureSize": [64, 64],
+  "boxes": [
+    {
+      "coordinates": [-2, -7, -1, 4, 12, 6],
+      "uvNorth": [16, 42, 20, 54],
+      "uvEast": [30, 42, 36, 54],
+      "uvSouth": [26, 42, 30, 54],
+      "uvWest": [20, 42, 26, 54]
+    }
+  ]
+}
