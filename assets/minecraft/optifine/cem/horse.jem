@@ -1,0 +1,67 @@
+{
+  "textureSize": [64,64],
+  "models":
+  [
+    {
+      "model": "./estelavern/head.jpm",
+      "part": "head",
+      "attach": true,
+      "rotate": [-12.5,0,0],
+      "translate": [8,-2,-9.5]
+    }
+    ,
+    {
+      "model": "./estelavern/neck.jpm",
+      "part": "neck",
+      "attach": true,
+      "translate": [0,0,-1]
+    }
+    ,
+    {
+      "model": "./estelavern/body.jpm",
+      "part": "body",
+      "attach": true
+    }
+    ,
+    {
+      "model": "./estelavern/tail.jpm",
+      "part": "tail",
+      "attach": true,
+      "translate": [0,0,-2]
+    }
+    ,
+    {
+      "model": "./estelavern/left_leg.jpm",
+      "part": "front_left_leg",
+      "attach": true,
+      "translate": [-1,0,3]
+    }
+    ,
+    {
+      "model": "./estelavern/right_leg.jpm",
+      "part": "front_right_leg",
+      "attach": true,
+      "translate": [1,0,3]
+    }
+    ,
+    {
+      "model": "./estelavern/left_leg.jpm",
+      "part": "back_left_leg",
+      "attach": true,
+      "translate": [-1,0,1]
+    }
+    ,
+    {
+      "model": "./estelavern/right_leg.jpm",
+      "part": "back_right_leg",
+      "attach": true,
+      "translate": [1,0,1]
+    }
+    ,
+    {
+      "model": "./estelavern/saddle.jpm",
+      "part": "saddle",
+      "attach": true
+    }
+  ]	
+}

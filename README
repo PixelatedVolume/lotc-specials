@@ -1,14 +1,15 @@
 LOTC SPECIAL ITEMS
-dist. 2021/09/26
+dist. 2021/11/2
 
 This is a Minecraft resource pack for special items used on the 
 Lord of the Craft (LotC), a medieval-fantasy roleplay server.  
-It requires Custom Item Textures (CIT) to work correctly, which 
-is distributed as part of Optifine.
+It requires Custom Item Textures (CIT), Custom Entity Models 
+(CEM), and Random Entities to work correctly.  All of these mods
+are distributed as part of Optifine (optifine.net).
 
-Be aware all larger-than-standard textures render too large in 
-the inventory GUI.  A solution will be implemented as soon as it
-is discovered.
+Be aware all larger-than-standard models render too large in the 
+inventory GUI.  A suitable solution will be implemented as soon 
+as it is discovered.
 
 This pack is created and maintained by PixelatedVolume, who may 
 be contacted at pixelatedvolume#7666 on Discord.
