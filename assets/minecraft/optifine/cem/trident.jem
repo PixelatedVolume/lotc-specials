@@ -1,13 +1,12 @@
 {
-  "textureSize": [32,32],
+  "textureSize": [32, 32],
   "models": 
   [
     {
       "model": "./seas_spire",
       "part": "body",
       "attach": true,
-      "rotate": [0,180,90],
-      "translate": [-8,16,0]
+      "translate": [0,8,0]
     }
   ]
 }
