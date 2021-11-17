@@ -6,7 +6,6 @@
       "model": "./horse/head.jpm",
       "part": "head",
       "attach": true,
-      "rotate": [-12.5,0,0],
       "translate": [8,-2,-9.5]
     }
     ,

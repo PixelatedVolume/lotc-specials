@@ -1,5 +1,5 @@
 {
-  "texture": "textures/entity/horse/estelavern_parts",
+  "texture": "textures/entity/horse/horse_black_parts",
   "textureSize": [64, 64],
   "boxes": [
     {
