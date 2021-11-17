@@ -63,5 +63,47 @@
       "part": "saddle",
       "attach": true
     }
-  ]	
+    ,
+    {
+      "model": "./enola/body.jpm",
+      "part": "body",
+      "attach": true
+    }
+    ,
+    {
+      "model": "./enola/head.jpm",
+      "part": "head",
+      "attach": true
+    }
+    ,
+    {
+      "model": "./enola/left_leg.jpm",
+      "part": "front_left_leg",
+      "attach": true
+    }
+    ,
+    {
+      "model": "./enola/left_leg.jpm",
+      "part": "back_left_leg",
+      "attach": true
+    }
+    ,
+    {
+      "model": "./enola/right_leg.jpm",
+      "part": "front_right_leg",
+      "attach": true
+    }
+    ,
+    {
+      "model": "./enola/right_leg.jpm",
+      "part": "back_right_leg",
+      "attach": true
+    }
+    ,
+    {
+      "model": "./enola/tail.jpm",
+      "part": "tail",
+      "attach": true
+    }
+  ]
 }
