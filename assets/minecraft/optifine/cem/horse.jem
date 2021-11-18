@@ -27,28 +27,28 @@
     }
     ,
     {
-      "model": "./horse/left_leg.jpm",
+      "model": "./horse/front_left_leg.jpm",
       "part": "front_left_leg",
       "attach": true,
       "translate": [-1,0,3]
     }
     ,
     {
-      "model": "./horse/right_leg.jpm",
+      "model": "./horse/front_right_leg.jpm",
       "part": "front_right_leg",
       "attach": true,
       "translate": [1,0,3]
     }
     ,
     {
-      "model": "./horse/left_leg.jpm",
+      "model": "./horse/rear_left_leg.jpm",
       "part": "back_left_leg",
       "attach": true,
       "translate": [-1,0,1]
     }
     ,
     {
-      "model": "./horse/right_leg.jpm",
+      "model": "./horse/rear_right_leg.jpm",
       "part": "back_right_leg",
       "attach": true,
       "translate": [1,0,1]
