@@ -12,7 +12,6 @@
   ,
   "submodels": [
     {
-      "id": "cube",
       "rotate": [-27.5, 0, 0],
       "boxes": [
         {

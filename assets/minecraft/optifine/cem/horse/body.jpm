@@ -1,7 +1,6 @@
 {
   "texture": "textures/entity/horse/horse_black_parts",
   "textureSize": [128, 128],
-  "credit": "Made with Blockbench",
   "boxes": [
     {
       "coordinates": [-4, -8, -17, 8, 10, 20],
