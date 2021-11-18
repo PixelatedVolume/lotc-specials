@@ -44,7 +44,6 @@
       "model": "./horse/left_leg.jpm",
       "part": "back_left_leg",
       "attach": true,
-      "rotate": [0,-180,0],
       "translate": [-1,0,1]
     }
     ,
@@ -52,7 +51,6 @@
       "model": "./horse/right_leg.jpm",
       "part": "back_right_leg",
       "attach": true,
-      "rotate": [0,-180,0],
       "translate": [1,0,1]
     }
     ,
