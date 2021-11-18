@@ -1,6 +1,7 @@
 {
   "texture": "textures/entity/horse/horse_black_parts",
   "textureSize": [128, 128],
+  "credit": "Made with Blockbench",
   "boxes": [
     {
       "coordinates": [-4, -8, -17, 8, 10, 20],
@@ -10,24 +11,25 @@
       "uvWest": [8, 54, 28, 64],
       "uvUp": [0, 54, 8, 34],
       "uvDown": [8, 34, 16, 54]
-    },
+    }
+    ,
     {
       "coordinates": [-5, -8, -8, 10, 9, 16],
-      "uvNorth": [80, 52, 92, 64],
-      "uvEast": [64, 52, 80, 64],
-      "uvSouth": [108, 52, 120, 64],
-      "uvWest": [92, 52, 108, 64],
-      "uvUp": [76, 36, 88, 52],
-      "uvDown": [64, 36, 76, 52]
-    },
+      "uvEast": [90, 30, 106, 39],
+      "uvSouth": [80, 30, 90, 39],
+      "uvWest": [64, 30, 80, 39],
+      "uvUp": [64, 14, 74, 30],
+      "uvDown": [74, 14, 84, 30]
+    }
+    ,
     {
       "coordinates": [-6, -9, -18, 12, 12, 10],
-      "uvNorth": [74, 0, 88, 13],
-      "uvEast": [64, 0, 74, 13],
-      "uvSouth": [98, 0, 112, 13],
-      "uvWest": [88, 0, 98, 13],
-      "uvUp": [112, 10, 126, 20],
-      "uvDown": [112, 0, 126, 10]
+      "uvNorth": [94, 18, 106, 30],
+      "uvEast": [84, 18, 94, 30],
+      "uvSouth": [116, 18, 128, 30],
+      "uvWest": [106, 18, 116, 30],
+      "uvUp": [104, 8, 116, 18],
+      "uvDown": [116, 8, 128, 18]
     }
   ]
 }
