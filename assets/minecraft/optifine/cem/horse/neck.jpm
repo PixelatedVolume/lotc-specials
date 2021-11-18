@@ -1,4 +1,5 @@
-{"texture": "textures/entity/horse/horse_black_parts",
+{
+  "texture": "textures/entity/horse/horse_black_parts",
   "textureSize": [128, 128],
   "boxes": [
     {

@@ -1,4 +1,5 @@
-{"texture": "textures/entity/horse/horse_black_parts",
+{
+  "texture": "textures/entity/horse/horse_black_parts",
   "textureSize": [128, 128],
   "boxes": [
     {
@@ -22,22 +23,19 @@
     ,
     {
       "coordinates": [-2.5, -1, -5, 3, 11, 3],
-      "uvNorth": [82, 14, 85, 29],
-      "uvEast": [103, 12, 106, 27],
-      "uvSouth": [69, 7, 72, 22],
-      "uvWest": [87, 7, 90, 22],
-      "uvUp": [115, 13, 118, 16],
-      "uvDown": [95, 6, 98, 9]
+      "uvNorth": [84, 44, 87, 55],
+      "uvEast": [81, 44, 84, 55],
+      "uvSouth": [91, 44, 94, 55],
+      "uvWest": [87, 44, 90, 55],
+      "uvDown": [80, 41, 83, 44]
     }
     ,
     {
       "coordinates": [-2.5, -1, -2, 3, 2, 1],
-      "uvNorth": [77, 10, 80, 13],
-      "uvEast": [105, 34, 106, 37],
-      "uvSouth": [83, 21, 86, 24],
-      "uvWest": [113, 18, 114, 21],
-      "uvUp": [85, 5, 88, 6],
-      "uvDown": [87, 13, 90, 14]
+      "uvEast": [80, 44, 81, 46],
+      "uvSouth": [91, 44, 94, 46],
+      "uvWest": [91, 44, 90, 46],
+      "uvDown": [80, 40, 83, 41]
     }
   ]
 }
