@@ -5,15 +5,13 @@
     {
       "model": "./horse/head.jpm",
       "part": "head",
-      "attach": true,
-      "translate": [8,-2,-9.5]
+      "attach": true
     }
     ,
     {
       "model": "./horse/neck.jpm",
       "part": "neck",
-      "attach": true,
-      "translate": [0,0,-1]
+      "attach": true
     }
     ,
     {
@@ -25,8 +23,7 @@
     {
       "model": "./horse/tail.jpm",
       "part": "tail",
-      "attach": true,
-      "translate": [0,0,-2]
+      "attach": true
     }
     ,
     {
