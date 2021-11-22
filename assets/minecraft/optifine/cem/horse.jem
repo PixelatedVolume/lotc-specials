@@ -3,65 +3,61 @@
   "models":
   [
     {
-      "model": "./estelavern/head.jpm",
+      "model": "./horse/head.jpm",
       "part": "head",
-      "attach": true,
-      "rotate": [-12.5,0,0],
-      "translate": [8,-2,-9.5]
+      "attach": true
     }
     ,
     {
-      "model": "./estelavern/neck.jpm",
+      "model": "./horse/neck.jpm",
       "part": "neck",
-      "attach": true,
-      "translate": [0,0,-1]
+      "attach": true
     }
     ,
     {
-      "model": "./estelavern/body.jpm",
+      "model": "./horse/body.jpm",
       "part": "body",
       "attach": true
     }
     ,
     {
-      "model": "./estelavern/tail.jpm",
+      "model": "./horse/tail.jpm",
       "part": "tail",
-      "attach": true,
-      "translate": [0,0,-2]
+      "attach": true
     }
     ,
     {
-      "model": "./estelavern/left_leg.jpm",
+      "model": "./horse/front_left_leg.jpm",
       "part": "front_left_leg",
       "attach": true,
       "translate": [-1,0,3]
     }
     ,
     {
-      "model": "./estelavern/right_leg.jpm",
+      "model": "./horse/front_right_leg.jpm",
       "part": "front_right_leg",
       "attach": true,
       "translate": [1,0,3]
     }
     ,
     {
-      "model": "./estelavern/left_leg.jpm",
+      "model": "./horse/rear_left_leg.jpm",
       "part": "back_left_leg",
       "attach": true,
       "translate": [-1,0,1]
     }
     ,
     {
-      "model": "./estelavern/right_leg.jpm",
+      "model": "./horse/rear_right_leg.jpm",
       "part": "back_right_leg",
       "attach": true,
       "translate": [1,0,1]
     }
     ,
     {
-      "model": "./estelavern/saddle.jpm",
+      "model": "./horse/saddle.jpm",
       "part": "saddle",
       "attach": true
     }
-  ]	
+  ]
 }

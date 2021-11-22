@@ -1,6 +1,6 @@
 {
-  "texture": "textures/entity/horse/estelavern_parts",
-  "textureSize": [64, 64],
+  "texture": "textures/entity/horse/horse_black_parts",
+  "textureSize": [128, 128],
   "boxes": [
     {
       "coordinates": [-4.25, -8.25, -12, 8.5, 8.5, 8.5],
