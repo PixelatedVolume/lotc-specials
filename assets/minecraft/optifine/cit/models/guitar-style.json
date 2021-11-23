@@ -1,0 +1,10 @@
+{
+    "parent": "./centergrip-doublewide",
+    "display": {
+        "thirdperson_lefthand": {
+            "rotation": [ 75, -180, 30 ],
+            "translation": [ -2, 0, 1 ],
+            "scale": [ 1.7, 1.7, 0.85 ]
+        }
+    }
+}
