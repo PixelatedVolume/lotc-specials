@@ -86,9 +86,9 @@
       "to": [9, 10, 10],
       "faces": {
         "north": {"uv": [13.5, 9, 14.5, 13], "texture": "#0"},
-        "east": {"uv": [14.5, 9, 15, 13], "rotation": 270, "texture": "#0"},
-        "south": {"uv": [13.5, 9, 14.5, 13], "rotation": 180, "texture": "#0"},
-        "west": {"uv": [13, 9, 13.5, 13], "rotation": 90, "texture": "#0"}
+        "east": {"uv": [15, 13, 13, 14], "rotation": 270, "texture": "#0"},
+        "south": {"uv": [13.5, 13, 14.5, 9], "rotation": 180, "texture": "#0"},
+        "west": {"uv": [13, 8, 15, 9], "rotation": 90, "texture": "#0"}
       }
     }
   ]
