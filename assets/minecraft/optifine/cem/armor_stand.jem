@@ -5,14 +5,7 @@
     {
       "model": "./armor_stand_additions.jpm",
       "part": "body",
-      "translate": [ 0, 24, 0 ],
-      "attach": true
-    }
-    ,
-    {
-      "model": "./blank.jpm",
-      "part": "head",
-      "attach": false
+      "translate": [ 0, 24, 0 ]
     }
   ]
 }
