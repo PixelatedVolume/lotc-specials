@@ -1,5 +1,5 @@
 {
-  "parent": "./handheld-doublewide",
+  "parent": "./doublewide",
   "display": 
   {
     "thirdperson_righthand": {
