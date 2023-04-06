@@ -1,5 +1,5 @@
 {
-  "parent": "./pole-shallow",
+  "parent": "./pole",
   "display": 
   {
     "thirdperson_righthand": {
