@@ -1,29 +1,19 @@
 { "parent": "item/generated"
-,  "display": 
-  { "firstperson_righthand":
-    { "rotation": [0, 90, 40]
-    , "translation": [0.5, 20, 2.5]
-    , "scale": [2.72, 2.72, 0.68]
-    }
-  , "firstperson_lefthand":
-    { "rotation": [0, -90, -40]
-    , "translation": [0, 20, 2.5]
-    , "scale": [2.72, 2.72, 0.68]
-    }
-  , "ground": 
-    { "rotation": [ 0, 0, 0 ]
-    , "translation": [ 8, 8, 0 ]
-    , "scale": [ 2.0, 2.0, 0.5 ]
+, "display": 
+  { "ground": 
+    { "rotation": [0,0,0]
+    , "translation": [5,5,0]
+    , "scale": [2,2,0.5]
     }
   , "fixed": 
-    { "rotation": [ 0, 180, 0 ]
-    , "translation": [ -16, 16, 0 ]
-    , "scale": [ 4.0, 4.0, 1.0 ]
+    { "rotation": [0,180,0]
+    , "translation": [-10,10,0]
+    , "scale": [4,4,1]
     }
   , "gui": 
-    { "rotation": [ 0, 0, 0 ]
-    , "translation": [ 16, 16, 0 ]
-    , "scale": [ 4.0, 4.0, 1 ]
+    { "rotation": [0,0,0]
+    , "translation": [10,10,0]
+    , "scale": [4,4,1]
     }
   }
 }
