@@ -1,5 +1,4 @@
-{
-  "parent": "./doublewide",
+{ "parent": "./doublewide",
   "display": {
    "thirdperson_righthand": {
       "rotation": [ 0, -90, 55 ],
