@@ -1,19 +1,19 @@
-{ "parent": "item/generated"
-, "display": 
-  { "ground": 
-    { "rotation": [0,0,0]
-    , "translation": [5,5,0]
-    , "scale": [2,2,0.5]
-    }
-  , "fixed": 
-    { "rotation": [0,180,0]
-    , "translation": [-10,10,0]
+{ "display": 
+  { "fixed": 
+    { "translation": [-10,10,0]
     , "scale": [4,4,1]
+    , "rotation": [0,180,0]
     }
   , "gui": 
-    { "rotation": [0,0,0]
-    , "translation": [10,10,0]
+    { "translation": [10,10,0]
     , "scale": [4,4,1]
+    , "rotation": [0,0,0]
+    }
+  , "ground": 
+    { "translation": [5,5,0]
+    , "scale": [2,2,0.5]
+    , "rotation": [0,0,0]
     }
   }
+, "parent": "item/generated"
 }
