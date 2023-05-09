@@ -1,6 +1,6 @@
 { "display": 
   { "fixed": 
-    { "translation": [-10,10,0]
+    { "translation": [-12,12,0]
     , "scale": [4,4,1]
     , "rotation": [0,180,0]
     }
