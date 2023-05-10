@@ -1,63 +1,45 @@
-{
-  "textureSize": [64,64],
-  "models":
+{ "models": 
   [
-    {
-      "model": "./horse/head.jpm",
-      "part": "head",
-      "attach": true
+    { "part": "head"
+    , "model": "./horse/head.jpm"
+    , "attach": true
     }
-    ,
-    {
-      "model": "./horse/neck.jpm",
-      "part": "neck",
-      "attach": true
-    }
-    ,
-    {
-      "model": "./horse/body.jpm",
-      "part": "body",
-      "attach": true
-    }
-    ,
-    {
-      "model": "./horse/tail.jpm",
-      "part": "tail",
-      "attach": true
-    }
-    ,
-    {
-      "model": "./horse/front_left_leg.jpm",
-      "part": "front_left_leg",
-      "attach": true,
-      "translate": [-1,0,3]
-    }
-    ,
-    {
-      "model": "./horse/front_right_leg.jpm",
-      "part": "front_right_leg",
-      "attach": true,
-      "translate": [1,0,3]
-    }
-    ,
-    {
-      "model": "./horse/rear_left_leg.jpm",
-      "part": "back_left_leg",
-      "attach": true,
-      "translate": [-1,0,1]
-    }
-    ,
-    {
-      "model": "./horse/rear_right_leg.jpm",
-      "part": "back_right_leg",
-      "attach": true,
-      "translate": [1,0,1]
-    }
-    ,
-    {
-      "model": "./horse/saddle.jpm",
-      "part": "saddle",
-      "attach": true
-    }
-  ]
+  ,
+    { "part": "neck"
+    , "model": "./horse/neck.jpm"
+    , "attach": true
+    },
+    { "part": "body"
+    , "model": "./horse/body.jpm"
+    , "attach": true
+    },
+    { "part": "tail"
+    , "model": "./horse/tail.jpm"
+    , "attach": true
+    },
+    { "part": "front_left_leg"
+    , "model": "./horse/front_left_leg.jpm"
+    , "attach": true
+    , "translate": [-1,0,3]
+    },
+    { "part": "front_right_leg"
+    , "model": "./horse/front_right_leg.jpm"
+    , "attach": true
+    , "translate": [1,0,3]
+    },
+    { "part": "back_left_leg"
+    , "model": "./horse/rear_left_leg.jpm"
+    , "attach": true
+    , "translate": [-1,0,1]
+    },
+    { "part": "back_right_leg"
+    , "model": "./horse/rear_right_leg.jpm"
+    , "attach": true
+    , "translate": [1,0,1]
+    },
+    { "part": "saddle"
+    , "model": "./horse/saddle.jpm"
+    , "attach": true
+    }]
+, "textureSize": [64,64]
 }

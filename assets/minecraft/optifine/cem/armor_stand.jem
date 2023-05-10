@@ -1,11 +1,9 @@
-{
-  "textureSize": [64,64],
-  "models":
+{ "models": 
   [
-    {
-      "model": "./armor_stand_additions.jpm",
-      "part": "body",
-      "translate": [ 0, 24, 0 ]
+    { "part": "body"
+    , "model": "./armor_stand_additions.jpm"
+    , "translate": [0,24,0]
     }
   ]
+, "textureSize": [64,64]
 }

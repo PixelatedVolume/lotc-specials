@@ -1,16 +1,14 @@
-{
-  "parent": "./handheld-doublewide",
-  "display": {
-    "thirdperson_righthand": {
-      "rotation": [ 0, 90, 45 ],
-      "translation": [ 0, -2, 1.25 ],
-      "scale": [ 1.7, 1.7, 0.85 ]
+{ "display": 
+  { "thirdperson_lefthand": 
+    { "translation": [0,-2,1.25]
+    , "scale": [1.7,1.7,0.85]
+    , "rotation": [0,-90,-45]
     }
-    ,
-    "thirdperson_lefthand": {
-      "rotation": [ 0, -90, -45 ],
-      "translation": [ 0, -2, 1.25 ],
-      "scale": [ 1.7, 1.7, 0.85 ]
+  , "thirdperson_righthand": 
+    { "translation": [0,-2,1.25]
+    , "scale": [1.7,1.7,0.85]
+    , "rotation": [0,90,45]
     }
   }
+, "parent": "./handheld-doublewide"
 }

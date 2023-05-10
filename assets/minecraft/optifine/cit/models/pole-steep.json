@@ -1,17 +1,14 @@
-{
-  "parent": "./pole-shallow",
-  "display": 
-  {
-    "thirdperson_righthand": {
-      "rotation": [0, 90, 15],
-      "translation": [0, 0, -0.25],
-      "scale": [1.7, 1.7, 0.85]
+{ "display": 
+  { "thirdperson_lefthand": 
+    { "translation": [0,1.75,5]
+    , "scale": [1.7,1.7,0.85]
+    , "rotation": [0,-90,-105]
     }
-    ,
-    "thirdperson_lefthand": {
-      "rotation": [0, -90, -105],
-      "translation": [0, 1.75, 5],
-      "scale": [1.7, 1.7, 0.85]
+  , "thirdperson_righthand": 
+    { "translation": [0,0,-0.25]
+    , "scale": [1.7,1.7,0.85]
+    , "rotation": [0,90,15]
     }
   }
+, "parent": "./pole"
 }
