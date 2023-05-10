@@ -4,5 +4,5 @@
   , "thirdperson_righthand": 
     { "scale": [1.7,1.7,0.85] }
   }
-, "parent": "./doublewide"
+, "parent": "./centergrip-doublewide"
 }

@@ -10,5 +10,5 @@
     , "rotation": [0,90,45]
     }
   }
-, "parent": "./doublewide"
+, "parent": "./handheld-doublewide"
 }
