@@ -1,26 +1,22 @@
-{
-  "parent": "./shield-aspis",
-  "display": {
-    "thirdperson_righthand": {
-      "rotation": [22, -60, -176],
-      "translation": [-3, -7.5, 4]
+{ "display": 
+  { "firstperson_lefthand": 
+    { "translation": [-2,4,9]
+    , "scale": [1.5,1.5,1]
+    , "rotation": [0,-15,0]
     }
-    ,
-    "thirdperson_lefthand": {
-      "rotation": [22, -60, 4],
-      "translation": [-4, 2, 6.5]
+  , "thirdperson_lefthand": 
+    { "translation": [-4,2,6.5]
+    , "rotation": [22,-60,4]
     }
-    ,
-    "firstperson_righthand": {
-      "rotation": [0, -15, -180],
-      "translation": [-2, -11, 9],
-      "scale": [1.5, 1.5, 1]
+  , "thirdperson_righthand": 
+    { "translation": [-3,-7.5,4]
+    , "rotation": [22,-60,-176]
     }
-    ,
-    "firstperson_lefthand": {
-      "rotation": [0, -15, 0],
-      "translation": [-2, 4, 9],
-      "scale": [1.5, 1.5, 1]
+  , "firstperson_righthand": 
+    { "translation": [-2,-11,9]
+    , "scale": [1.5,1.5,1]
+    , "rotation": [0,-15,-180]
     }
   }
+, "parent": "./shield-aspis"
 }
