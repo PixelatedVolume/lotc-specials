@@ -1,4 +1,2 @@
-{ "animation": { 
-    "frametime": 6
-  }
-}
+{ "animation": 
+  { "frametime": 6 } }
