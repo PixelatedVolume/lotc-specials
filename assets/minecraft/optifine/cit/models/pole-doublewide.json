@@ -5,12 +5,12 @@
     , "rotation": [0,-90,-40]
     }
   , "fixed": 
-    { "translation": [-12,12,0]
+    { "translation": [-8,8,0]
     , "scale": [4,4,1]
     , "rotation": [0,180,0]
     }
   , "gui": 
-    { "translation": [10,10,0]
+    { "translation": [8,8,0]
     , "scale": [4,4,1]
     , "rotation": [0,0,0]
     }
