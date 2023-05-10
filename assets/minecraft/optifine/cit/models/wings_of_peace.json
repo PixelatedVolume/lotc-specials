@@ -30,7 +30,6 @@
 , "textures": 
   { "1": "optifine/cit/textures/wings_of_peace" }
 , "texture_size": [32,32]
-, "credit": "Made with Blockbench"
 , "elements": 
   [
     { "from": [0,-2,-7]
