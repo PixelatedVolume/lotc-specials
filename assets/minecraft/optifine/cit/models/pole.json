@@ -1,17 +1,14 @@
-{
-  "parent": "./doublewide",
-  "display": 
-  {
-    "firstperson_righthand": {
-      "rotation": [0, 90, 40],
-      "translation": [1.13, 3.2, 1.13],
-      "scale": [1.36, 1.36, 0.68]
+{ "display": 
+  { "firstperson_lefthand": 
+    { "translation": [1.13,3.2,1.13]
+    , "scale": [1.36,1.36,0.68]
+    , "rotation": [0,-90,-40]
     }
-    ,
-    "firstperson_lefthand": {
-      "rotation": [0, -90, -40],
-      "translation": [1.13, 3.2, 1.13],
-      "scale": [1.36, 1.36, 0.68]
+  , "firstperson_righthand": 
+    { "translation": [1.13,3.2,1.13]
+    , "scale": [1.36,1.36,0.68]
+    , "rotation": [0,90,40]
     }
   }
+, "parent": "./doublewide"
 }
