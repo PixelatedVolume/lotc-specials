@@ -10,5 +10,5 @@
     , "rotation": [0,90,15]
     }
   }
-, "parent": "./doublewide"
+, "parent": "./pole"
 }
