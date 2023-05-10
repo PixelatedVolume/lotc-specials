@@ -1,13 +1,15 @@
 { "texture": "textures/entity/horse/horse_black_parts"
 , "textureSize": [128,128]
-, "boxes": [
+, "boxes": 
+  [
     { "uvSouth": [46,46,44,54]
     , "uvEast": [44,46,42,54]
     , "uvDown": [48,52,50,54]
     , "uvNorth": [42,46,40,54]
     , "coordinates": [-1,2,-2,2,8,2]
     , "uvWest": [48,46,46,54]
-    },
+    }
+  ,
     { "uvSouth": [52,37,48,46]
     , "uvEast": [48,37,44,46]
     , "uvDown": [52,46,56,50]

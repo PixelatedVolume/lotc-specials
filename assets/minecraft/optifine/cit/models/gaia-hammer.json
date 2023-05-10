@@ -35,7 +35,8 @@
 , "textures": 
   { "2": "optifine/cit/textures/smash3d" }
 , "texture_size": [64,64]
-, "elements": [
+, "elements": 
+  [
     { "from": [7,26,7]
     , "to": [9,27,9]
     , "faces": 
@@ -64,7 +65,8 @@
         , "uv": [12,0.75,11.5,1]
         }
       }
-    },
+    }
+  ,
     { "from": [5,20,1]
     , "to": [11,27,6]
     , "faces": 
@@ -181,10 +183,12 @@
         }
       }
     }]
-, "groups": [
+, "groups": 
+  [
     { "color": 0
     , "origin": [0,0,0]
     , "name": "group"
     , "children": [0,1,2,3]
-    },4]
+    }
+  ,4]
 }

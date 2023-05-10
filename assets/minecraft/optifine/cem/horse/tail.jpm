@@ -1,9 +1,11 @@
 { "texture": "textures/entity/horse/horse_black_parts"
 , "textureSize": [128,128]
-, "submodels": [
+, "submodels": 
+  [
     { "id": "cube"
     , "rotate": [-22.5,0,0]
-    , "boxes": [
+    , "boxes": 
+      [
         { "uvSouth": [124,30,128,44]
         , "uvEast": [112,30,116,44]
         , "uvDown": [107,34,111,38]
@@ -11,16 +13,20 @@
         , "uvUp": [107,30,111,34]
         , "coordinates": [-2,-1,4.5,4,14,4]
         , "uvWest": [120,30,124,44]
-        }]
-    }]
-, "boxes": [
+        }
+      ]
+    }
+  ]
+, "boxes": 
+  [
     { "uvSouth": [58,56,62,57]
     , "uvEast": [64,56,63,57]
     , "uvDown": [61,63,58,64]
     , "uvNorth": [58,47,62,48]
     , "coordinates": [-2,-1,1.25,4,1,1]
     , "uvWest": [56,56,57,57]
-    },
+    }
+  ,
     { "uvSouth": [59,59,61,61]
     , "uvEast": [64,59,63,61]
     , "uvDown": [59,63,61,64]

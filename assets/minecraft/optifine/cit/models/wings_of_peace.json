@@ -30,7 +30,8 @@
 , "textures": 
   { "1": "optifine/cit/textures/wings_of_peace" }
 , "texture_size": [32,32]
-, "elements": [
+, "elements": 
+  [
     { "from": [0,-2,-7]
     , "to": [1,0,7]
     , "faces": 
@@ -55,7 +56,8 @@
         , "uv": [0,6.5,0.5,7.5]
         }
       }
-    },
+    }
+  ,
     { "from": [0,-3,-6]
     , "to": [1,-2,6]
     , "faces": 

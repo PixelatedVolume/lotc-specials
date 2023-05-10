@@ -1,8 +1,10 @@
-{ "models": [
+{ "models": 
+  [
     { "part": "head"
     , "model": "./horse/head.jpm"
     , "attach": true
-    },
+    }
+  ,
     { "part": "neck"
     , "model": "./horse/neck.jpm"
     , "attach": true

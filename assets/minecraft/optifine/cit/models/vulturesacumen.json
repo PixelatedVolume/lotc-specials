@@ -23,7 +23,8 @@
 , "textures": 
   { "0": "optifine/cit/textures/vulturesacumen" }
 , "texture_size": [32,32]
-, "elements": [
+, "elements": 
+  [
     { "from": [8.25,-6.5,7.7]
     , "to": [8.75,-5,8.3]
     , "faces": 
@@ -57,7 +58,8 @@
       , "origin": [6.95,0,7]
       , "axis": "y"
       }
-    },
+    }
+  ,
     { "from": [7.25,-6.5,7.7]
     , "to": [7.75,-5,8.3]
     , "faces": 

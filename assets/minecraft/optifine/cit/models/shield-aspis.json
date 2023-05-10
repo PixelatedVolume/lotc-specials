@@ -34,7 +34,8 @@
 , "textures": 
   { "0": "optifine/cit/textures/evarir-lin" }
 , "texture_size": [32,32]
-, "elements": [
+, "elements": 
+  [
     { "from": [0,0,0]
     , "to": [16,6,1]
     , "faces": 
@@ -70,7 +71,8 @@
       , "origin": [8,3,1]
       , "axis": "y"
       }
-    },
+    }
+  ,
     { "from": [1,-2,0]
     , "to": [15,0,1]
     , "faces": 
