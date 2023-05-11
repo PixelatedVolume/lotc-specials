@@ -1,0 +1,14 @@
+{ "display": 
+  { "thirdperson_lefthand": 
+    { "translation": [0,6.25,14]
+    , "scale": [3.4,3.4,0.85]
+    , "rotation": [0,-90,-108]
+    }
+  , "thirdperson_righthand": 
+    { "translation": [0,6.25,14]
+    , "scale": [3.4,3.4,0.85]
+    , "rotation": [0,90,108]
+    }
+  }
+, "parent": "./pole-doublewide"
+}
