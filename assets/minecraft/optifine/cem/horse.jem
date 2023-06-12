@@ -1,44 +1,44 @@
 { "models": 
   [
     { "part": "head"
-    , "model": "./horse/head.jpm"
+    , "model": "horse/head.jpm"
     , "attach": true
     }
   ,
     { "part": "neck"
-    , "model": "./horse/neck.jpm"
+    , "model": "horse/neck.jpm"
     , "attach": true
     },
     { "part": "body"
-    , "model": "./horse/body.jpm"
+    , "model": "horse/body.jpm"
     , "attach": true
     },
     { "part": "tail"
-    , "model": "./horse/tail.jpm"
+    , "model": "horse/tail.jpm"
     , "attach": true
     },
     { "part": "front_left_leg"
-    , "model": "./horse/front_left_leg.jpm"
+    , "model": "horse/front_left_leg.jpm"
     , "attach": true
     , "translate": [-1,0,3]
     },
     { "part": "front_right_leg"
-    , "model": "./horse/front_right_leg.jpm"
+    , "model": "horse/front_right_leg.jpm"
     , "attach": true
     , "translate": [1,0,3]
     },
     { "part": "back_left_leg"
-    , "model": "./horse/rear_left_leg.jpm"
+    , "model": "horse/rear_left_leg.jpm"
     , "attach": true
     , "translate": [-1,0,1]
     },
     { "part": "back_right_leg"
-    , "model": "./horse/rear_right_leg.jpm"
+    , "model": "horse/rear_right_leg.jpm"
     , "attach": true
     , "translate": [1,0,1]
     },
     { "part": "saddle"
-    , "model": "./horse/saddle.jpm"
+    , "model": "horse/saddle.jpm"
     , "attach": true
     }]
 , "textureSize": [64,64]

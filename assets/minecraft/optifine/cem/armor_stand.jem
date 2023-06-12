@@ -1,7 +1,7 @@
 { "models": 
   [
     { "part": "body"
-    , "model": "./armor_stand_additions.jpm"
+    , "model": "armor_stand_additions.jpm"
     , "translate": [0,24,0]
     }
   ]
